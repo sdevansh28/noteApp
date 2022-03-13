@@ -1,3 +1,3 @@
-# noteapp
+# Mote App
 A Note Keeping ReactJS App.
-Hosted at - 
+Hosted at - https://sdevansh28.github.io/noteapp/
